@@ -57,7 +57,7 @@ namespace Palindrom
 ```
 ## Output:
 
-<img width="350" alt="image" src="https://user-images.githubusercontent.com/93427237/224764936-aa78a68a-f43c-465b-96c5-5fe96f8b1ba7.png">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/94174503/226607572-d2d0f8b9-99ce-4a76-aad1-22bc4176cd76.png">
 <img width="339" alt="image" src="https://user-images.githubusercontent.com/93427237/224767576-3969e05b-c8b1-4f92-b71f-c2aaee2f8711.png">
 
 ## Result:
